@@ -1,0 +1,7 @@
+TAXON	FAD	LAD	MID
+Petrolacosaurus_kansensis	307	303.7	305.35
+Araeoscelis_gracilis	283.5	278.225	280.8625
+Lanthanolania_ivakhnenkoi	272.95	265.1	269.025
+Youngina_capensis	259.1	251.902	255.501
+Claudiosaurus_germaini	256.62	251.902	254.261
+Microcnemus_efremovi	251.2	249.2	250.2

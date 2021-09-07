@@ -1,0 +1,307 @@
+#NEXUS
+[written Sat Nov 07 17:47:21 GMT 2020 by Mesquite  version 3.61 (build 927) at Susanas-MBP.connect/192.168.1.7]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=79;
+	TAXLABELS
+		Paraplacodus_broilii Placodus_gigas Placodus_inexpectatus Sinocyamodus_xinpuensis Henodus_chelyops Cyamodus_orientalis Glyphoderma_kangi Psephochelys_polyosteoderma Psephoderma_alpinum Wumengosaurus_delicatomandibularis Qianxisaurus_chajiangensis Dactylosaurus_schroederi Serpianosaurus_mirigiolensis Neusticosaurus_pusillus Neusticosaurus_peyeri Neusticosaurus_edwardsii Dianopachysaurus_dingi Keichousaurus_hui Diandongosaurus_acutidentatus Lariosaurus_balsami Lariosaurus_valceresii Lariosaurus_xingyiensis Ceresiosaurus_calcagnii Nothosaurus_marchicus Nothosaurus_youngi Nothosaurus_giganteus Corosaurus_alcovensis Yunguisaurus_liae Bobosaurus_forojuliensis Eopleiosaurus_antiquior Macroplata_tenuiceps Avalonnectes_arturi Meyerasaurus_victor Rhomaleosaurus_megacephalus Archaeonectrus_rostratus Rhomaleosaurus_cramptoni Rhomaleosaurus_zetlandicus Thalassiodracon_hawkinsii Hauffiosaurus_longirostris Hauffiosaurus_tomistomimus Hauffiosaurus_zanoni Attenborosaurus_conybeari Peloneustes_philarchus Liopleurodon_ferox Kronosaurus_queenslandicus Kronosaurus_boyacensis Plesiosaurus_dolichodeirus Seelyosaurus_guilelmiimperatori Microcleidus_brachypterygius Plesiopterys_wildi Cryptoclidus_eurymerus Muraenosaurus_leedsii Colymbosaurus_trochanterius Nichollssaura_borealis Brancasaurus_brancai Manemergus_anguirostris Polycotylus_latipinnis Trinacromerum_bentonianum Dolichorhynchops_osborni Morenosaurus_stocki Elasmosaurus_platyurus Libonectes_atlasense Callawayasaurus_colombiensis Albertonectes_vanderveldei Hydrotherosaurus_alexandrae Styxosaurus_sp Kaiwhekea_katiki Aristonectes_quiriquinensis Thalassomedon_haningtoni Lindwurmia_thiuda Luskhan_itilensis Microcleidus_sp Microcleidus_homalospondylus Microcleidus_tournemirensis Panzhousaurus_rotundirostris Sachicasaurus_vitae Plesiosaurus_sp Dianmeisaurus_gracilis Wangosaurus_brevirostris 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title Composite1;
+	ID 0172244ae3471;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		n0 Paraplacodus_broilii,
+[1] 		n1 Placodus_gigas,
+[2] 		n2 Placodus_inexpectatus,
+[3] 		n3 Sinocyamodus_xinpuensis,
+[4] 		n4 Henodus_chelyops,
+[5] 		n5 Cyamodus_orientalis,
+[6] 		n6 Glyphoderma_kangi,
+[7] 		n7 Psephochelys_polyosteoderma,
+[8] 		n8 Psephoderma_alpinum,
+[9] 		n9 Wumengosaurus_delicatomandibularis,
+[10] 		n10 Qianxisaurus_chajiangensis,
+[11] 		n11 Dactylosaurus_schroederi,
+[12] 		n12 Serpianosaurus_mirigiolensis,
+[13] 		n13 Neusticosaurus_pusillus,
+[14] 		n14 Neusticosaurus_peyeri,
+[15] 		n15 Neusticosaurus_edwardsii,
+[16] 		n16 Dianopachysaurus_dingi,
+[17] 		n17 Keichousaurus_hui,
+[18] 		n18 Diandongosaurus_acutidentatus,
+[19] 		n19 Lariosaurus_balsami,
+[20] 		n20 Lariosaurus_valceresii,
+[21] 		n21 Lariosaurus_xingyiensis,
+[22] 		n22 Ceresiosaurus_calcagnii,
+[23] 		n23 Nothosaurus_marchicus,
+[24] 		n24 Nothosaurus_youngi,
+[25] 		n25 Nothosaurus_giganteus,
+[26] 		n26 Corosaurus_alcovensis,
+[27] 		n27 Yunguisaurus_liae,
+[28] 		n28 Bobosaurus_forojuliensis,
+[29] 		n29 Eopleiosaurus_antiquior,
+[30] 		n30 Macroplata_tenuiceps,
+[31] 		n31 Avalonnectes_arturi,
+[32] 		n32 Meyerasaurus_victor,
+[33] 		n33 Rhomaleosaurus_megacephalus,
+[34] 		n34 Archaeonectrus_rostratus,
+[35] 		n35 Rhomaleosaurus_cramptoni,
+[36] 		n36 Rhomaleosaurus_zetlandicus,
+[37] 		n37 Thalassiodracon_hawkinsii,
+[38] 		n38 Hauffiosaurus_longirostris,
+[39] 		n39 Hauffiosaurus_tomistomimus,
+[40] 		n40 Hauffiosaurus_zanoni,
+[41] 		n41 Attenborosaurus_conybeari,
+[42] 		n42 Peloneustes_philarchus,
+[43] 		n43 Liopleurodon_ferox,
+[44] 		n44 Kronosaurus_queenslandicus,
+[45] 		n45 Kronosaurus_boyacensis,
+[46] 		n46 Plesiosaurus_dolichodeirus,
+[47] 		n47 Seelyosaurus_guilelmiimperatori,
+[48] 		n48 Microcleidus_brachypterygius,
+[49] 		n49 Plesiopterys_wildi,
+[50] 		n50 Cryptoclidus_eurymerus,
+[51] 		n51 Muraenosaurus_leedsii,
+[52] 		n52 Colymbosaurus_trochanterius,
+[53] 		n53 Nichollssaura_borealis,
+[54] 		n54 Brancasaurus_brancai,
+[55] 		n55 Manemergus_anguirostris,
+[56] 		n56 Polycotylus_latipinnis,
+[57] 		n57 Trinacromerum_bentonianum,
+[58] 		n58 Dolichorhynchops_osborni,
+[59] 		n59 Morenosaurus_stocki,
+[60] 		n60 Elasmosaurus_platyurus,
+[61] 		n61 Libonectes_atlasense,
+[62] 		n62 Callawayasaurus_colombiensis,
+[63] 		n63 Albertonectes_vanderveldei,
+[64] 		n64 Hydrotherosaurus_alexandrae,
+[65] 		n65 Styxosaurus_sp,
+[66] 		n66 Kaiwhekea_katiki,
+[67] 		n67 Aristonectes_quiriquinensis,
+[68] 		n68 Thalassomedon_haningtoni,
+[69] 		n69 Lindwurmia_thiuda,
+[70] 		n70 Luskhan_itilensis,
+[71] 		n71 Microcleidus_sp,
+[72] 		n72 Microcleidus_homalospondylus,
+[73] 		n73 Microcleidus_tournemirensis,
+[74] 		n74 Panzhousaurus_rotundirostris,
+[75] 		n75 Sachicasaurus_vitae,
+[76] 		n76 Plesiosaurus_sp,
+[77] 		n77 Dianmeisaurus_gracilis,
+[78] 		n78 Wangosaurus_brevirostris;
+	TREE 'Imported tree 1++++++' = ((n0,((n1,n2),((n5,n3),(n4,(n6,(n7,n8)))))),((n9,(n11,(n10,((n12,(n13,(n14,n15))),(n74,(n17,(n16,((n77,n18),(n23,(n25,((n19,(n20,n22)),(n21,n24)))))))))))),(n26,(n78,(n27,(n28,(n29,(n69,((n30,(n31,(n33,(n34,(n32,(n35,n36)))))),((n37,((n38,n39,n40),(n41,(n42,(n43,(n70,(n44,(n75,n45)))))))),((n46,n76),((n47,(n73,(n72,(n71,n48)))),(n49,(((n50,n51),n52),(((n53,n54),(n55,(n56,(n57,n58)))),(n62,(n61,(n68,((n63,n60,n64,n65),(n59,(n67,n66)))))))))))))))))))))[% ] [% ] [%  setBetweenBits = selected ];
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1604771241446;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 432841775651127996;
+			tell It;
+				setDefaultOrder  0 1 2 3 4 5 6 7 8 9 10 11 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 48 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 70 71 72 74 75 77 78 79 80 85 86 83 81;
+				attachments ;
+			endTell;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 100;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1307 719;
+			setLocation -445 -1224;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			showTaxa #432841775651127996 #mesquite.lists.TaxonList.TaxonList;
+			tell It;
+				setTaxa #432841775651127996;
+				getWindow;
+				tell It;
+					useTargetValue off;
+					setTargetValue ;
+					newAssistant  #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition;
+					getTable;
+					tell It;
+						rowNamesWidth 201;
+					endTell;
+					setExplanationSize 90;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1207 587;
+					setLocation -445 -1224;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.lists.TaxonList.TaxonListWindow.ibeam;
+					endTell;
+				endTell;
+				showWindow;
+				getEmployee #mesquite.lists.ColorTaxon.ColorTaxon;
+				tell It;
+					setColor Dark Gray;
+					removeColor on;
+				endTell;
+				getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #432841775651127996  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlock 1;
+					setTreeBlockID 0172244ae3471;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 1075.1589746828836.3771526249929005471;
+				getTreeWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1207 647;
+					setLocation -445 -1224;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.trees.BasicTreeWindowMaker.BasicTreeWindow.arrow;
+					endTell;
+					setActive;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareTree.SquareTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							branchLengthsToggle off;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter off;
+							toggleEven off;
+							setFixedTaxonDistance 0;
+						endTell;
+						setEdgeWidth 2;
+						orientRight;
+						setCornerMode Right_Angle  50;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					labelBranchLengths off;
+					centerBrLenLabels on;
+					showBrLensUnspecified on;
+					showBrLenLabelsOnTerminals on;
+					setBrLenLabelColor 0 0 255;
+					setNumBrLenDecimals 6;
+					setSelectedTaxonHighlightMode 1;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						setTaxonNameStyler  #mesquite.trees.NoColorForTaxon.NoColorForTaxon;
+						toggleShadePartition off;
+						toggleShowFootnotes on;
+						toggleNodeLabels on;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+				endTell;
+					setTreeNumber 1;
+					setDrawingSizeMode 0;
+					toggleLegendFloat on;
+					scale 0;
+					toggleTextOnTree off;
+					getInfoPanel;
+					tell It;
+						btspOpen true;
+						apOpen false;
+					endTell;
+					toggleInfoPanel on;
+					togglePrintName off;
+					showWindow;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles;
+				tell It;
+					setOn on;
+					toggleShow consensusFrequency;
+					toggleShow posteriorProbability;
+					toggleShow bootstrapFrequency;
+					toggleShow consensusFrequency;
+					toggleShow posteriorProbability;
+					toggleShow bootstrapFrequency;
+					setDigits 4;
+					setThreshold ?;
+					writeAsPercentage off;
+					toggleCentred off;
+					toggleHorizontal on;
+					toggleWhiteEdges on;
+					toggleShowOnTerminals on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocStrings.DrawTreeAssocStrings;
+				tell It;
+					setOn on;
+					toggleCentred on;
+					toggleHorizontal on;
+					setFontSize 10;
+					setOffset 0  0;
+					toggleShowOnTerminals on;
+				endTell;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

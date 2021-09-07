@@ -1,0 +1,11 @@
+taxon	FAD	LAD
+Batrachotomus_kupferzellensis	239.5	237.0
+Mandasuchus_tanyauchen	247.2	237
+Ctenosauriscus_koeneni	249.2	247.2
+Kalisuchus_rewanensis	251.902	251.2
+Eorasaurus_olsoni	259.1	254.14
+Protorosaurus_speneri	259.1	256.62
+Eunotosaurus_africanus	262.1	259.1
+Lanthanolania_ivakhnenkoi	272.95	265.1
+Orovenator_mayorum	290.1	286.8
+Petrolacosaurus_kansensis	307	303.7

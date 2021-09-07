@@ -1,0 +1,171 @@
+#NEXUS
+[R-package APE, Fri Jan 29 11:07:14 2021]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 79;
+	TAXLABELS
+		Paraplacodus_broilii
+		Placodus_gigas
+		Placodus_inexpectatus
+		Cyamodus_orientalis
+		Sinocyamodus_xinpuensis
+		Henodus_chelyops
+		Glyphoderma_kangi
+		Psephochelys_polyosteoderma
+		Psephoderma_alpinum
+		Wumengosaurus_delicatomandibularis
+		Dactylosaurus_schroederi
+		Qianxisaurus_chajiangensis
+		Serpianosaurus_mirigiolensis
+		Neusticosaurus_pusillus
+		Neusticosaurus_peyeri
+		Neusticosaurus_edwardsii
+		Panzhousaurus_rotundirostris
+		Keichousaurus_hui
+		Dianopachysaurus_dingi
+		Dianmeisaurus_gracilis
+		Diandongosaurus_acutidentatus
+		Nothosaurus_marchicus
+		Nothosaurus_giganteus
+		Lariosaurus_balsami
+		Lariosaurus_valceresii
+		Ceresiosaurus_calcagnii
+		Lariosaurus_xingyiensis
+		Nothosaurus_youngi
+		Corosaurus_alcovensis
+		Wangosaurus_brevirostris
+		Yunguisaurus_liae
+		Bobosaurus_forojuliensis
+		Eopleiosaurus_antiquior
+		Lindwurmia_thiuda
+		Macroplata_tenuiceps
+		Avalonnectes_arturi
+		Rhomaleosaurus_megacephalus
+		Archaeonectrus_rostratus
+		Meyerasaurus_victor
+		Rhomaleosaurus_cramptoni
+		Rhomaleosaurus_zetlandicus
+		Thalassiodracon_hawkinsii
+		Attenborosaurus_conybeari
+		Peloneustes_philarchus
+		Liopleurodon_ferox
+		Luskhan_itilensis
+		Kronosaurus_queenslandicus
+		Sachicasaurus_vitae
+		Kronosaurus_boyacensis
+		Plesiosaurus_dolichodeirus
+		Plesiosaurus_sp
+		Seelyosaurus_guilelmiimperatori
+		Microcleidus_tournemirensis
+		Microcleidus_homalospondylus
+		Microcleidus_sp
+		Microcleidus_brachypterygius
+		Plesiopterys_wildi
+		Cryptoclidus_eurymerus
+		Muraenosaurus_leedsii
+		Colymbosaurus_trochanterius
+		Nichollssaura_borealis
+		Brancasaurus_brancai
+		Manemergus_anguirostris
+		Polycotylus_latipinnis
+		Trinacromerum_bentonianum
+		Dolichorhynchops_osborni
+		Callawayasaurus_colombiensis
+		Libonectes_atlasense
+		Thalassomedon_haningtoni
+		Morenosaurus_stocki
+		Aristonectes_quiriquinensis
+		Kaiwhekea_katiki
+		Styxosaurus_sp
+		Elasmosaurus_platyurus
+		Albertonectes_vanderveldei
+		Hydrotherosaurus_alexandrae
+		Hauffiosaurus_tomistomimus
+		Hauffiosaurus_zanoni
+		Hauffiosaurus_longirostris
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Paraplacodus_broilii,
+		2	Placodus_gigas,
+		3	Placodus_inexpectatus,
+		4	Cyamodus_orientalis,
+		5	Sinocyamodus_xinpuensis,
+		6	Henodus_chelyops,
+		7	Glyphoderma_kangi,
+		8	Psephochelys_polyosteoderma,
+		9	Psephoderma_alpinum,
+		10	Wumengosaurus_delicatomandibularis,
+		11	Dactylosaurus_schroederi,
+		12	Qianxisaurus_chajiangensis,
+		13	Serpianosaurus_mirigiolensis,
+		14	Neusticosaurus_pusillus,
+		15	Neusticosaurus_peyeri,
+		16	Neusticosaurus_edwardsii,
+		17	Panzhousaurus_rotundirostris,
+		18	Keichousaurus_hui,
+		19	Dianopachysaurus_dingi,
+		20	Dianmeisaurus_gracilis,
+		21	Diandongosaurus_acutidentatus,
+		22	Nothosaurus_marchicus,
+		23	Nothosaurus_giganteus,
+		24	Lariosaurus_balsami,
+		25	Lariosaurus_valceresii,
+		26	Ceresiosaurus_calcagnii,
+		27	Lariosaurus_xingyiensis,
+		28	Nothosaurus_youngi,
+		29	Corosaurus_alcovensis,
+		30	Wangosaurus_brevirostris,
+		31	Yunguisaurus_liae,
+		32	Bobosaurus_forojuliensis,
+		33	Eopleiosaurus_antiquior,
+		34	Lindwurmia_thiuda,
+		35	Macroplata_tenuiceps,
+		36	Avalonnectes_arturi,
+		37	Rhomaleosaurus_megacephalus,
+		38	Archaeonectrus_rostratus,
+		39	Meyerasaurus_victor,
+		40	Rhomaleosaurus_cramptoni,
+		41	Rhomaleosaurus_zetlandicus,
+		42	Thalassiodracon_hawkinsii,
+		43	Attenborosaurus_conybeari,
+		44	Peloneustes_philarchus,
+		45	Liopleurodon_ferox,
+		46	Luskhan_itilensis,
+		47	Kronosaurus_queenslandicus,
+		48	Sachicasaurus_vitae,
+		49	Kronosaurus_boyacensis,
+		50	Plesiosaurus_dolichodeirus,
+		51	Plesiosaurus_sp,
+		52	Seelyosaurus_guilelmiimperatori,
+		53	Microcleidus_tournemirensis,
+		54	Microcleidus_homalospondylus,
+		55	Microcleidus_sp,
+		56	Microcleidus_brachypterygius,
+		57	Plesiopterys_wildi,
+		58	Cryptoclidus_eurymerus,
+		59	Muraenosaurus_leedsii,
+		60	Colymbosaurus_trochanterius,
+		61	Nichollssaura_borealis,
+		62	Brancasaurus_brancai,
+		63	Manemergus_anguirostris,
+		64	Polycotylus_latipinnis,
+		65	Trinacromerum_bentonianum,
+		66	Dolichorhynchops_osborni,
+		67	Callawayasaurus_colombiensis,
+		68	Libonectes_atlasense,
+		69	Thalassomedon_haningtoni,
+		70	Morenosaurus_stocki,
+		71	Aristonectes_quiriquinensis,
+		72	Kaiwhekea_katiki,
+		73	Styxosaurus_sp,
+		74	Elasmosaurus_platyurus,
+		75	Albertonectes_vanderveldei,
+		76	Hydrotherosaurus_alexandrae,
+		77	Hauffiosaurus_tomistomimus,
+		78	Hauffiosaurus_zanoni,
+		79	Hauffiosaurus_longirostris
+	;
+	TREE * UNTITLED = [&R] ((1:5.540887209,((2:5.318299709,3:0.2916909555):0.124,((4:1.670309073,5:5.321149256):0.283,(6:6.681502887,(7:0.518364687,(8:2.543648516,9:21.79845645):6.702):0.01):1.911):8.622):0.113):2.555,((10:6.036311573,(11:3.855831595,(12:16.4905194,((13:5.483010321,(14:1.681817415,(15:1.634249899,16:0.08722867179):2.515):4.665):0.067,(17:4.117385586,(18:10.15815376,(19:4.393225057,((20:2.774424411,21:3.128835937):0.796,(22:6.047755202,(23:5.866307553,((24:0.8038652872,(25:1.220739788,26:2.578836648):0.21):1.863,(27:8.45703328,28:6.665867459):2.49):0.382):2.272):0.152):0.358):0.025):0.022):0.051):0.435):0.244):1.652):0.222,(29:0.7980054506,(30:10.09526081,(31:4.610190987,(32:1.127836654,(33:31.17708696,(34:4.616623774,((35:2.37160535,(36:0.7999142414,(37:1.022343366,(38:0.6332683718,(39:10.49580634,(40:6.697387428,41:6.545183278):5.129):12.463):1.728):0.0001):0.16):1.587,((42:0.5277429143,(((78:5.206571042,79:5.623754085):6.461,77:15.68368598):7.936,(43:3.527229486,(44:5.705285149,(45:0.6656613664,(46:4.42414299,(47:4.928086421,(48:3.089924534,49:4.771950184):0.023):5.155):29.241):7.022):27.314):0.747):1.262):0.016,((50:2.283554078,51:5.266613903):1.769,((52:3.516985529,(53:3.130500852,(54:2.302607009,(55:2.679651203,56:1.111367003):0.216):0.511):0.844):0.611,(57:3.881558004,(((58:1.153245537,59:0.3815169264):7.447,60:19.40947967):0.359,(((61:39.71134161,62:8.639107901):1.389,(63:16.95722799,(64:13.68849295,(65:4.90647908,66:7.709641449):1.932):8.917):37.825):1.613,(67:7.16750923,(68:4.833915309,(69:1.483978861,((((74:4.180724318,75:16.1981252):2.369,76:18.25885034):0.449,73:10.24258035):1.96,(70:0.8743234681,(71:3.285817282,72:2.379211791):2.682):18.562):4.991):0.081):27.75):22.768):26.709):6.405):4.059):15.396):0.913):3.084):2.026):25.245):4.857):0.168):11.312):1.221):1.284):0.38);
+END;
